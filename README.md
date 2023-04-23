@@ -1,3 +1,27 @@
+
+
+![screencapture-localhost-3000-2022-10-10-23_27_31](https://user-images.githubusercontent.com/97453085/233852211-6100ad75-ce5f-4252-ae0a-f2e13005c6e2.png)
+
+
+
+![screencapture-localhost-3000-product-headphones-c-2022-10-10-23_28_10](https://user-images.githubusercontent.com/97453085/233852223-2dde1099-5adf-45bb-9df1-30683bc970c5.png)
+
+
+![screencapture-checkout-stripe-c-pay-cs-test-a1LUIUXMN9YqgTjZUnoyDlt5CYfSHUMcueB8JIB8dCj4ehxlukwCHoktCW-2022-10-10-23_31_31](https://user-images.githubusercontent.com/97453085/233852233-3f87bbd8-dbe9-48a7-b7cc-c80f0a0159fd.png)
+
+![screencapture-localhost-3000-success-2022-10-10-23_32_13](https://user-images.githubusercontent.com/97453085/233852245-efc42800-82a4-4ef3-b2a0-fe86f1ba7950.png)
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
